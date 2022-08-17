@@ -1,2 +1,2 @@
 # testCodeJs
-I study Js.This repois for studying Js.
+I study Js.This repo is for studying Js.
